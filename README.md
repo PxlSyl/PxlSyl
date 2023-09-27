@@ -12,6 +12,9 @@
 
 ### :hammer_and_wrench: Languages and Tools :
 
+<div>
+<img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg" alt=""/>
+</div>
 
 <!--
 **PxlSyl/PxlSyl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
