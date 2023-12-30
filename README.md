@@ -4,28 +4,25 @@
 <div>
 <img src="https://komarev.com/ghpvc/?username=PxlSyl&style=flat-square&color=blue" alt=""/>
 </div>
-<h1>
-👩‍🎨🚀 Artist & Developer Extraordinaire 🚀👨‍💻
-Hello World! 👋
-Welcome to my creative universe, where art and technology collide to bring imagination to life. I am PxlSyl, a passionate artist and developer on a mission to create immersive and impactful experiences.
+<p>👩‍🎨🚀 Artist & Developer Extraordinaire 🚀👨‍💻</p>
+<p>Hello World! 👋</p>
+<p>Welcome to my creative universe, where art and technology collide to bring imagination to life. I am PxlSyl, a passionate artist and developer on a mission to create immersive and impactful experiences.</p>
 
-🎨 Artistry Unleashed
-What Sets Me Apart:
-Multidisciplinary Artist: My canvas extends beyond traditional mediums. From traditional illustrations to Pixel Art, I bring visions to reality.
-Creative Innovation: I blend creativity with technology to craft interactive and visually stunning art that transcends boundaries.
-Artistic Highlights:
-[Portfolio Link]: Explore my diverse portfolio, showcasing the fusion of colors, shapes, and narratives.
+<p>🎨 Artistry Unleashed</p>
+<p>What Sets Me Apart:</p>
 
-💻 Code Wizardry
-My Developer Journey:
-Tech Polyglot: React/Next.js
-Open Source Advocate: Contributing to open source projects, fostering collaboration, and sharing knowledge.
+<p>Artistic Highlights:</p>
+<p>Multidisciplinary Artist: My canvas extends beyond traditional mediums. From traditional illustrations to Pixel Art, I bring visions to reality.</p>
 
-🚀 Join Me on this Creative Odyssey!
+<p>💻 Code Wizardry</p>
+<p>My Developer Journey:</p>
+<p>Specializing in: React/Next.js</p>
+<p>Open Source Advocate: Contributing to open source projects, fostering collaboration, and sharing knowledge.</p>
 
-🌈 Thank You for Being a Part of My Artistic Codevolution! 🌌
-[Personal Website]
-</h1>
+<p>🚀 Join Me on this Creative Odyssey!</p>
+
+<p>🌈 Thank You for Being a Part of My Artistic Codevolution! 🌌</p>
+<p>(https://www.pxlsyl.art/)</p>
 
 ---
 
