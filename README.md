@@ -22,7 +22,7 @@
 <p>🚀 Join Me on this Creative Odyssey!</p>
 
 <p>🌈 Thank You for Being a Part of My Artistic Codevolution! 🌌</p>
-<p>(https://www.pxlsyl.art/)</p>
+<p>https://www.pxlsyl.art/</p>
 
 ---
 
