@@ -6,7 +6,7 @@
 </div>
 <p>👩‍🎨🚀 Artist & Developer Extraordinaire 🚀👨‍💻</p>
 <p>Hello World! 👋</p>
-<p>Welcome to my creative universe, where art and technology collide to bring imagination to life. I am PxlSyl, a passionate artist and developer on a mission to create immersive and impactful experiences.</p>
+<p>Welcome to my creative universe, where art and technology collide to bring imagination to life. I am PxlSyl, a passionate artist and developer (self-taught for both) on a mission to create immersive and impactful experiences.</p>
 
 <p>🎨 Artistry Unleashed</p>
 <p>What Sets Me Apart:</p>
